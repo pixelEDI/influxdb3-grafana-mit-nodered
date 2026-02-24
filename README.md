@@ -5,6 +5,9 @@
 Kleines Setup für ein Zeitreihen-Stack mit **InfluxDB 3 Core** und **Grafana** via Docker.
 Node-RED schreibt Messwerte direkt in die Datenbank.
 
+
+Mein Video: https://youtu.be/eknrNxYTKTo
+
 ---
 
 ## 1. Docker Compose
